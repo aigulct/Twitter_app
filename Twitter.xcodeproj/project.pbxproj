@@ -80,11 +80,11 @@
 			children = (
 				6EBCF54D21E71F9400451C03 /* Launch Screen.storyboard */,
 				6EBCF52921DF07FC00451C03 /* Main.storyboard */,
-				6EBCF54321E047A500451C03 /* TwitterAPICaller.swift */,
 				6EBCF52521DF07FC00451C03 /* AppDelegate.swift */,
 				37D29B8521F90E3400984A88 /* Assets.xcassets */,
 				6EBCF53121DF07FE00451C03 /* Info.plist */,
 				A3C3E7D5253032C000378B85 /* LoginViewController.swift */,
+				6EBCF54321E047A500451C03 /* TwitterAPICaller.swift */,
 				A3C3E7D82531096200378B85 /* HomeTableViewController.swift */,
 				A3C3E7DB2531393800378B85 /* TweetCellTableViewCell.swift */,
 				A3F10B8025368B9600876D0F /* TweetViewController.swift */,
